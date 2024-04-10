@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @alok2011
 - 👀 I’m interested in java Backend developer
-- 🌱 I’m currently learning java Adv
+- 🌱 I’m currently learning : java Adv
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on gmail alokranjantiwaricse@gmail.com
+- 📫 How to reach me : on gmail alokranjantiwaricse@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
